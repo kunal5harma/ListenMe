@@ -121,6 +121,11 @@ const songs = [
         id: 24,
         songName: `Obsessed <br><div class="subtitle">Riar Saab</div>`,
         poster: "img/24.jpg"
+    },
+    {
+        id: 25,
+        songName: `Samay Smjhayega<br><div class="subtitle">Devanshu Darji</div>`,
+        poster: "img/25.jpg"
     }
 ]
 
